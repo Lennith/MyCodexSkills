@@ -1,0 +1,22 @@
+{
+  "bundle_id": "replace_bundle_id",
+  "skills_sources": ["../skills"],
+  "skill_lists": [],
+  "agents": [],
+  "project": {
+    "project_id": "replace_project_id",
+    "name": "Replace Project Name",
+    "workspace_path": "./workspace"
+  },
+  "workflow_template": {
+    "template_id": "replace_template_id",
+    "name": "Replace Workflow Template",
+    "tasks": []
+  },
+  "workflow_run": {
+    "run_id": "replace_run_id",
+    "template_id": "replace_template_id",
+    "workspace_path": "./workspace",
+    "auto_start": false
+  }
+}

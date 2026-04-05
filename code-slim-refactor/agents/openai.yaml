@@ -1,4 +1,4 @@
 interface:
   display_name: "Code Slim Refactor"
-  short_description: "Convergent refactor with lite or strict gates"
-  default_prompt: "Run $code-slim-refactor on the current repository. Keep branch-first, design-before-code, per-round review, and ./slim_refactor tracking. Use mode=lite by default unless strict complete-workflow gate is requested."
+  short_description: "Run explicit convergence refactors without relaxing contracts for tests"
+  default_prompt: "Use $code-slim-refactor only for an explicit structured simplification pass. Preserve the intended current backend contract, never weaken contracts or assertions just to pass tests, and run the contract-mismatch gate when tests and backend behavior disagree. Start in mode=quick unless the user asks for a formal traceable strict refactor."

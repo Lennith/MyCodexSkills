@@ -1,0 +1,12 @@
+{
+  "step_id": "step-05-bundle",
+  "title": "Bundle packaging",
+  "status": "pending",
+  "check_items": [
+    "TemplateBundle structure is valid",
+    "all paths resolve inside current workspace",
+    "bundle is single-template and single-run for one apply cycle"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}

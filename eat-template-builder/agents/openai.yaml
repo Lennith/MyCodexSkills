@@ -1,0 +1,4 @@
+interface:
+  display_name: "EasyAgent Template Builder"
+  short_description: "Scaffold and build EasyAgentTeam template bundles with plan-first gates"
+  default_prompt: "Use $eat-template-builder to scaffold or update an EasyAgentTeam template workspace. Clarify the goal, reusable agents, imported skills, IDs, and workflow shape first. If a workflow is involved, show a Markdown Mermaid flowchart and wait for explicit confirmation before generating the final bundle or running check/publish."

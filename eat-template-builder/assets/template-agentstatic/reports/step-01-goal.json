@@ -1,0 +1,12 @@
+{
+  "step_id": "step-01-goal",
+  "title": "Goal freeze",
+  "status": "pending",
+  "check_items": [
+    "goal statement is concrete and outcome-oriented",
+    "scope boundaries are explicit (in/out)",
+    "success criteria and evidence targets are listed"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}

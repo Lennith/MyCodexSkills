@@ -1,0 +1,12 @@
+{
+  "step_id": "step-02-roles",
+  "title": "Role design",
+  "status": "pending",
+  "check_items": [
+    "roles are reusable, not one-off temporary identities",
+    "each role description states function, usable external tools, and method",
+    "role descriptions avoid EasyAgentTeam runtime/toolcall/routing internals"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}
