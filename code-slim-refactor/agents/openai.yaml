@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Slim Refactor"
+  short_description: "Convergent refactor with lite or strict gates"
+  default_prompt: "Run $code-slim-refactor on the current repository. Keep branch-first, design-before-code, per-round review, and ./slim_refactor tracking. Use mode=lite by default unless strict complete-workflow gate is requested."
