@@ -1,0 +1,12 @@
+{
+  "step_id": "step-03-agents",
+  "title": "Agent definitions",
+  "status": "pending",
+  "check_items": [
+    "agent ids and names do not conflict with backend existing resources",
+    "prompts focus on role function, tools, and method for reusable behavior",
+    "skill bindings map to required backend capabilities"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}

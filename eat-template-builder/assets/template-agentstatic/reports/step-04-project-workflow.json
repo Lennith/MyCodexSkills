@@ -1,0 +1,12 @@
+{
+  "step_id": "step-04-project-workflow",
+  "title": "Project/workflow assembly",
+  "status": "pending",
+  "check_items": [
+    "route references stay inside valid agent closure",
+    "task owners and dependencies are valid and closed",
+    "tasks define objective/input/output/constraints/boundary/exception/acceptance"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}

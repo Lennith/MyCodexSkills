@@ -1,0 +1,9 @@
+{
+  "base_url": "http://127.0.0.1:43123",
+  "default_bundle_path": "bundles/submitted.bundle.json",
+  "report_dir": "reports/template-guard",
+  "skill_entry": {
+    "check_command": "node .agent-tools/scripts/template_bundle_guard.mjs check",
+    "publish_command": "node .agent-tools/scripts/template_bundle_guard.mjs publish"
+  }
+}

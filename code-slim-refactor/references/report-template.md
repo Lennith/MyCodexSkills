@@ -32,7 +32,19 @@ State how this round reduced potential errors:
 - reduced config paths:
 - reduced coupling paths:
 
-## 5. Traceability Table
+## 5. Contract Integrity
+
+Record contract status for this round:
+- intended current contract invariants kept:
+- intended current contract invariants corrected:
+- contract mismatch evidence:
+- reviewer type (`subagent` or `local_fallback`):
+- classification (`backend_regression` / `stale_tests` / `not_applicable`):
+- tests changed:
+- tests skipped:
+- stale-test follow-up required:
+
+## 6. Traceability Table
 
 Map each changed file to a planned action and validation evidence.
 
@@ -40,13 +52,13 @@ Map each changed file to a planned action and validation evidence.
 |---|---|---|---|
 | | | | |
 
-## 6. Validation Results
+## 7. Validation Results
 
 - commands executed:
 - key outputs:
 - pass or fail:
 
-## 7. Risks and Follow-up
+## 8. Risks and Follow-up
 
 - residual risks:
 - deferred items:

@@ -14,6 +14,7 @@ Update this file at the start and during each round.
 - [ ] All generated artifacts stay under `./slim_refactor`
 - [ ] `plan.md` created or updated before any code edits
 - [ ] Every code change mapped to an action ID in `plan.md`
+- [ ] Backend contracts, response semantics, and assertion standards are not weakened for tests
 - [ ] Validation executed and recorded in `report.md`
 
 ## Execution Tasks
@@ -22,8 +23,9 @@ Update this file at the start and during each round.
 - [ ] T2 `plan.md` finalized for current round
 - [ ] T3 Source changes applied by declared actions only
 - [ ] T4 Validation commands executed
-- [ ] T5 `report.md` completed
-- [ ] T6 Final review of remaining risks
+- [ ] T5 Contract-mismatch gate recorded when needed
+- [ ] T6 `report.md` completed
+- [ ] T7 Final review of remaining risks
 
 ## Status Board
 
@@ -35,6 +37,7 @@ Update this file at the start and during each round.
 | T4 | todo | |
 | T5 | todo | |
 | T6 | todo | |
+| T7 | todo | |
 
 ## Next Round Candidates
 

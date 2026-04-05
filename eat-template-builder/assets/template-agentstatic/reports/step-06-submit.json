@@ -1,0 +1,12 @@
+{
+  "step_id": "step-06-submit",
+  "title": "Bundle submit via template_bundle_guard",
+  "status": "pending",
+  "check_items": [
+    "run check command and fix issues",
+    "run publish command and capture ids",
+    "evidence includes reports/template-guard/last_check + last_publish"
+  ],
+  "evidence_paths": [],
+  "notes": ""
+}
