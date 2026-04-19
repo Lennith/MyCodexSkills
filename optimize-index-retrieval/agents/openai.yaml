@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Index Retrieval"
+  short_description: "Design context-safe index retrieval workflows"
+  default_prompt: "Use this skill to add context-control contracts for complex index retrieval without changing scoring semantics."
