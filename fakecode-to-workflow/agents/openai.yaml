@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fakecode to Workflow"
+  short_description: "Translate fakecode and workflows"
+  default_prompt: "Use $fakecode-to-workflow to translate between fakecode and agent-readable workflows."
